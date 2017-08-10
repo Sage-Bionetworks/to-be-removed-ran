@@ -1,0 +1,7 @@
+Package: synapser
+Version: 1.0
+Depends: PythonEmbedInR, R(>= 3.3)
+Imports: PythonEmbedInR
+Suggests: testthat, knitr, rmarkdown
+License: GPL
+MD5sum: 6e574a9876168a947a669327791c2428

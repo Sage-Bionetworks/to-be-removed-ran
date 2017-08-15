@@ -3,7 +3,7 @@ Version: 0.1-3
 Depends: R (>= 2.15), pack, methods, R6, stats
 Imports: pack, methods, R6, stats
 License: GPL-3
-MD5sum: a88dfecc93573af35cee23641bed4156
+MD5sum: 7c8952811358b565ccd1c689b41e5602
 NeedsCompilation: yes
 
 Package: synapser

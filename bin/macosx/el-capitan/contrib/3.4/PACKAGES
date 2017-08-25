@@ -11,4 +11,4 @@ Depends: PythonEmbedInR, R(>= 3.3)
 Imports: PythonEmbedInR
 Suggests: testthat, knitr, rmarkdown
 License: GPL
-MD5sum: a0a6e5375a34a559e30af77e04fcab1b
+MD5sum: 0823c0ab6e4b31b656c1de11967416ab

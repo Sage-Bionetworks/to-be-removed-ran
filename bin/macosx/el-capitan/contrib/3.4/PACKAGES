@@ -1,9 +1,10 @@
 Package: PythonEmbedInR
-Version: 0.1-3
+Version: 0.1-4
 Depends: R (>= 2.15), pack, methods, R6, stats
 Imports: pack, methods, R6, stats
+Suggests: testthat
 License: GPL-3
-MD5sum: 7bce14cd024cc413ec183f24893bcabe
+MD5sum: bb3997cbc2356632dbb2df5be0e0d724
 
 Package: synapser
 Version: 1.0

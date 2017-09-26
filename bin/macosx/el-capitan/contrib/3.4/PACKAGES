@@ -4,7 +4,7 @@ Depends: R (>= 2.15), pack, methods, R6, stats
 Imports: pack, methods, R6, stats
 Suggests: testthat
 License: GPL-3
-MD5sum: bb3997cbc2356632dbb2df5be0e0d724
+MD5sum: 3a5528efd90beddd4405cf34a308b0ca
 
 Package: synapser
 Version: 1.0

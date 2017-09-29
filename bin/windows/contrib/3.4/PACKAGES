@@ -1,7 +1,7 @@
 Package: PythonEmbedInR
 Version: 0.1-4
-Depends: R (>= 2.15), pack, methods, R6, stats
-Imports: pack, methods, R6, stats
+Depends: R (>= 2.15), R6
+Imports: pack, methods, stats
 Suggests: testthat
 License: GPL-3
 Archs: x64
